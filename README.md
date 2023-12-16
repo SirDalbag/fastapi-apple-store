@@ -1,2 +1,2 @@
-# fastapi-store
+# iSpace
 Apple Store on FastAPI
