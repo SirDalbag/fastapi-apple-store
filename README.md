@@ -1,2 +1,2 @@
 # fastapi-store
-FastAPI Store
+Apple Store on FastAPI
